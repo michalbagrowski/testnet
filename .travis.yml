@@ -12,4 +12,4 @@ after_failure:
   - ls _build/dev1/rel/ae_core/log/*
   - cat _build/dev1/rel/ae_core/log/*
   - ls _build/dev2/rel/ae_core/log/*
-  - cat _build/dev3/rel/ae_core/log/*
+  - cat _build/dev2/rel/ae_core/log/*
